@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "This is just a test"
+echo "This is an updated test"
 echo "It's only a test"
