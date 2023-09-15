@@ -1,2 +1,3 @@
 Some text
 Editing a second file
+Some more text
